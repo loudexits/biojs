@@ -4,6 +4,8 @@ The aim of this project is to create a library of graphical components easy to r
 * [Registry of components](http://www.ebi.ac.uk/Tools/biojs/registry)
 * [Documentation for developers](https://github.com/biojs/biojs/wiki/Documentation)
 
+fooo 
+
 # Objectives
 * Represent consistently biological information across different projects
 * Ease discovery, test and integration of graphical components
